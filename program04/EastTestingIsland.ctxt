@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EastTestingIsland
+comment0.text=\r\n\ \ Testing\ island\ with\ east\ path\ only\r\n\r\n\ \ @author\ Richard\ Nguyen(906512730)\r\n\ \ @version\ (2022.09.26)\r\n
+comment1.params=
+comment1.target=EastTestingIsland()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ EastTestingIsland\ object.\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScavengerHunt
+comment0.text=\r\n\ This\ program\ creates\ Scavenger\ Jeroo\ Watney\ and\ calls\r\n\ method\ stub\ collectFlowers\ for\ later\ completion\ of\ LongIsland.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.09.05)\r\n
+comment1.params=
+comment1.target=ScavengerHunt()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ ScavengerHunt\ object.\r\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\r\n\ myProgram\ method\ that\ instantiates\ watney\ and\ calls\r\n\ collectFlower();\r\n
+numComments=3
