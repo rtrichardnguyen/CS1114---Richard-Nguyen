@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ \ Hero\ subclass\ that\ sets\ quality\ and\ defense\ to\ five\ at\ default.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.15)\r\n
+comment1.params=s\ n
+comment1.target=Hero(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Hero\ object.\r\n\ @param\ s\ String\ for\ name\r\n\ @param\ n\ integer\ for\ points\r\n
+numComments=2

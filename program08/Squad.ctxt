@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\r\n\ \ Squad\ class\ to\ represent\ a\ list\ of\ units.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.20)\r\n
+comment1.params=n
+comment1.target=Squad(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Squad\ object.\r\n\ @param\ n\ for\ squad\ name\r\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\r\n\ Accessor\ to\ return\ list\ of\ units\r\n\ @return\ units\ list\r\n
+comment3.params=u
+comment3.target=void\ addUnit(Unit)
+comment3.text=\r\n\ Mutator\ to\ add\ unit\ to\ list\r\n\ @param\ u\ unit\ to\ add\ to\ list\r\n
+comment4.params=u
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\r\n\ Mutator\ to\ remove\ unit\ from\ list\r\n\ @param\ u\ unit\ to\ remove\ from\ list\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ accessor\ for\ points\ field\r\n\ @return\ points\ for\ points\ field\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ for\ Squad\ object\r\n\ @return\ super\ string\ and\ list\ of\ Units\r\n
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\r\n\ \ Upgrade\ class\ that\ provides\ mutators\ and\ accessors\ for\ \r\n\ \ name\ and\ points\ fields.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.15)\r\n
+comment1.params=n\ p
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\r\n\ @param\ n\ String\ for\ name\r\n\ @param\ p\ integer\ for\ points\r\n
+comment2.params=str
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ mutator\ for\ name\ field\r\n\ @param\ str\ for\ Upgrade\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ accessor\ for\ name\ field\r\n\ @return\ name\ for\ name\ field\r\n
+comment4.params=p
+comment4.target=void\ setPoints(int)
+comment4.text=\r\n\ mutator\ for\ points\ field\r\n\ @param\ p\ for\ points\ field\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ accessor\ for\ points\ field\r\n\ @return\ points\ for\ points\ field\r\n
+numComments=6

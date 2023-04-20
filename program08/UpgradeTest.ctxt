@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=UpgradeTest
+comment0.text=\r\n\ \ Test\ class\ that\ tests\ all\ Upgrade\ methods\ and\ constructor\r\n\ \ with\ new\ sword\ object.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.17)\r\n
+comment1.params=
+comment1.target=UpgradeTest()
+comment1.text=\r\n\ Creates\ a\ new\ UpgradeTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testGetName()
+comment3.text=\r\n\ Method\ to\ test\ getName\ with\ object\ sword\r\n
+comment4.params=
+comment4.target=void\ testSetName()
+comment4.text=\r\n\ Method\ to\ test\ setName\ with\ new\ name\ string\r\n
+comment5.params=
+comment5.target=void\ testGetPoints()
+comment5.text=\r\n\ Method\ to\ test\ getPoints\ with\ object\ sword\r\n
+comment6.params=
+comment6.target=void\ testSetPoints()
+comment6.text=\r\n\ Method\ to\ test\ setPoints\ with\ new\ integer\ n\r\n
+comment7.params=
+comment7.target=void\ testToString()
+comment7.text=\r\n\ Method\ to\ test\ toString()\ with\ field\ sword\r\n
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CleverBrain
+comment0.text=\r\n\ \ CleverBrain\ class\ to\ decide\ efficient\ moves\ in\ tetris\ game.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.29)\r\n
+comment1.params=
+comment1.target=CleverBrain()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ CleverBrain\ object.\r\n
+comment2.params=board\ piece\ heightLimit
+comment2.target=student.tetris.Move\ bestMove(student.tetris.Board,\ student.tetris.Piece,\ int)
+comment2.text=\r\n\ Method\ to\ determine\ best\ possible\ move\ with\ lowest\r\n\ point\ cost.\r\n\ @param\ board\ Board\ for\ current\ canvas\ being\ played\ on\r\n\ @param\ piece\ piece\ to\ iterate\ through\ all\ rotations\r\n\ @param\ heightLimit\ to\ not\ go\ over\r\n\ @return\ Move\ object\ of\ best\ determined\ move\r\n
+comment3.params=piece\ b\ move
+comment3.target=void\ allRotations(student.tetris.Piece,\ student.tetris.Board,\ student.tetris.Move)
+comment3.text=\r\n\ Method\ to\ iterate\ thorugh\ all\ rotations\r\n\ @param\ piece\ piece\ to\ iterate\ thorugh\r\n\ @param\ b\ board\ to\ evaluate\r\n\ @param\ move\ move\ to\ change\ score\r\n
+comment4.params=p\ n
+comment4.target=student.tetris.Piece\ rotatedPiece(student.tetris.Piece,\ int)
+comment4.text=\r\n\ Method\ to\ return\ next\ rotation\ piece\r\n\ @param\ p\ piece\ to\ iterate\ through\r\n\ @param\ n\ rotation\ number\r\n\ @return\ rotated\ piece\r\n
+comment5.params=board
+comment5.target=double\ rateBoard(student.tetris.Board)
+comment5.text=\r\n\ Method\ to\ rate\ current\ board\ using\ column\ heights\ and\ \r\n\ row\ densities\r\n\ @param\ board\ current\ board\ to\ rate\r\n\ @return\ double\ determined\ rating\ of\ board\r\n
+comment6.params=board\ column
+comment6.target=double\ rateColumn(student.tetris.Board,\ int)
+comment6.text=\r\n\ Method\ to\ rate\ column\ by\ height\r\n\ @param\ board\ board\ to\ evaluate\r\n\ @param\ column\ column\ to\ rate\r\n\ @return\ total\ column\ rating\r\n
+comment7.params=board
+comment7.target=double\ countHoles(student.tetris.Board)
+comment7.text=\r\n\ Method\ to\ count\ holes\ on\ board\r\n\ @param\ board\ board\ to\ count\ holes\ on\r\n\ @return\ double\ of\ hole\ count\r\n
+numComments=8

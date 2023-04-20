@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ \ Army\ class\ to\ represent\ player\ profile.\r\n\ \ \r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.20)\r\n
+comment1.params=n\ f\ pn
+comment1.target=Army(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Army\ object.\r\n\ @param\ n\ army\ name\r\n\ @param\ f\ faction\ name\r\n\ @param\ pn\ player\ name\r\n
+comment2.params=str
+comment2.target=void\ setPlayerName(java.lang.String)
+comment2.text=\r\n\ mutator\ for\ playerName\ field\r\n\ @param\ str\ for\ playerName\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPlayerName()
+comment3.text=\r\n\ accessor\ for\ playerName\ field\r\n\ @return\ playerName\ for\ playerName\ field\r\n
+comment4.params=str
+comment4.target=void\ setFaction(java.lang.String)
+comment4.text=\r\n\ mutator\ for\ faction\ field\r\n\ @param\ str\ for\ faction\r\n
+comment5.params=
+comment5.target=java.lang.String\ getFaction()
+comment5.text=\r\n\ accessor\ for\ faction\ field\r\n\ @return\ faction\ for\ faction\ field\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ for\ Army\ object\r\n\ @return\ super\ string\ and\ list\ of\ Units\r\n
+numComments=7

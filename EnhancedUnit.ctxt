@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnhancedUnit
+comment0.text=\r\n\ \ EnhancedUnit\ subclass\ to\ Unit\ with\ extra\ field\ specialRule.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.15)\r\n
+comment1.params=n\ p
+comment1.target=EnhancedUnit(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ EnhancedUnit\ object.\r\n\ @param\ n\ String\ for\ name\r\n\ @param\ p\ integer\ for\ points\r\n
+comment2.params=s
+comment2.target=void\ setSpecialRule(java.lang.String)
+comment2.text=\r\n\ Mutator\ for\ EnhancedUnit\ Special\ Rule\r\n\ @param\ s\ String\ for\ special\ rule\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSpecialRule()
+comment3.text=\r\n\ Accessor\ for\ EnhancedUnit\ Special\ Rule\r\n\ @return\ specialRule\ for\ object\ EnhancedUnit\r\n
+numComments=4

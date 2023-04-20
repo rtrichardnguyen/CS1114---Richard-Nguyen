@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WeatherBureau
+comment0.text=\r\n\ \ This\ class\ represents\ a\ weather\ service\ that\ keeps\ track\r\n\ \ of\ all\ the\ weather\ stations.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.11.12)\r\n
+comment1.params=
+comment1.target=WeatherBureau()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ WeatherBureau\ object.\r\n
+comment2.params=text
+comment2.target=void\ recordDailySummary(java.lang.String)
+comment2.text=\r\n\ Takes\ a\ single\ string\ representing\ a\ single\ one-line\ daily\r\n\ weather\ summary\ for\ one\ day\ at\ one\ weather\ station.\r\n\ @param\ text\ single\ string\ of\ weather\ data\ for\ specific\ day\r\n
+comment3.params=input
+comment3.target=void\ recordDailySummaries(java.util.Scanner)
+comment3.text=\r\n\ Takes\ a\ Scanner\ object\ as\ a\ parameter\ that\ represents\r\n\ an\ input\ data\ source,\ such\ as\ a\ file\ containing\ a\ series\r\n\ of\ daily\ summary\ records\ for\ one\ or\ more\ weather\ stations\r\n\ and\ records\ rainfall\ for\ corresponding\ station.\r\n\ @param\ input\ scanner\ for\ scanning\ data\ source\r\n
+comment4.params=identifier
+comment4.target=WeatherStation\ getStation(java.lang.String)
+comment4.text=\r\n\ Return\ the\ weather\ station\ object\ for\ the\ given\ weather\ station\r\n\ ID\r\n\ @param\ identifier\ to\ return\ object\ by\ id\r\n\ @return\ specified\ station\r\n
+comment5.params=
+comment5.target=WeatherStation\ lowestStation()
+comment5.text=\r\n\ Returns\ the\ weather\ station\ that\ has\ the\ lowest\ average\r\n\ rainfall\ recorded\ for\ any\ month.\r\n\ @return\ station\ with\ lowest\ average\r\n
+comment6.params=n
+comment6.target=WeatherStation\ lowestStation(int)
+comment6.text=\r\n\ Returns\ the\ weather\ station\ that\ has\ the\ lowest\ average\r\n\ rainfall\ recorded\ for\ any\ month.\r\n\ @param\ n\ month\r\n\ @return\ station\ with\ lowest\ average\r\n
+numComments=7
