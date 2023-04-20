@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TransformablePicture
+comment0.text=\r\n\ \ A\ picture\ that\ supports\ basic\ color\ transformations\ for\ Lab\ 08.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (richardn03)\r\n\ \ @version\ (2022.10.13)\r\n
+comment1.params=original
+comment1.target=TransformablePicture(student.media.Picture)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ TransformablePicture\ object\ as\ a\ copy\r\n\ of\ another\ image.\r\n\ @param\ original\ Picture\ object\ to\ be\ in\ super\ call\r\n
+comment2.params=p\ num
+comment2.target=void\ adjustPixel(student.media.Pixel,\ int)
+comment2.text=\r\n\ Method\ that\ adds\ num\ to\ Red,\ Green,\ and\ Blue\ value\ of\ pixel\r\n\ @param\ p\ pixel\ to\ ajust\r\n\ @param\ num\ integer\ that\ increases\ each\ RGB\ value\ by\r\n
+comment3.params=rate
+comment3.target=void\ radialShadow(int)
+comment3.text=\r\n\ Adds\ a\ radial\ shadow\ that\ gets\ darker\ the\ farther\ a\ pixel\ is\ from\r\n\ the\ upper\ left\ corner.\r\n\ \r\n\ @param\ rate\ The\ speed\ at\ which\ the\ shadow\ gets\ darker,\ where\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ a\ larger\ number\ produces\ a\ more\ gradual\ shadow\r\n
+comment4.params=rate
+comment4.target=void\ radialGlow(int)
+comment4.text=\r\n\ Method\ that\ gets\ lighter\ the\ farther\ a\ pixel\ is\ from\ the\ \r\n\ bottom\ right\ corner\r\n\ @param\ rate\ The\ speed\ at\ which\ the\ image\ gets\ lighter\ from\r\n\ the\ upper\ left\ pixel\r\n
+comment5.params=rate
+comment5.target=void\ colorShift(int)
+comment5.text=\r\n\ Method\ to\ that\ adjusts\ RGB\ values\ individually,\ red\ based\r\n\ on\ distance\ from\ upper\ left\ corner\ and\ blue\ based\ on\ distance\r\n\ from\ lower\ right\ corner\r\n\ @param\ rate\ integer\ the\ speed\ of\ change\ between\ red\ and\ blue\r\n\ values\r\n
+numComments=6
