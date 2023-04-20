@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SquarePlanter
+comment0.text=\r\n\ \ Class\ to\ plant\ a\ square\ of\ flowers\r\n\r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.09.22)\r\n
+comment1.params=flowersPerSide
+comment1.target=SquarePlanter(int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ SquarePlanter\ object.\r\n\ \r\n\ @param\ flowersPerSide\ The\ amount\ of\ flowers\ per\ side\r\n
+comment2.params=
+comment2.target=void\ plantSquare()
+comment2.text=\r\n\ plantSquare\ method\ to\ call\ plantOneSide\ and\ finishCorner\r\n\ 4\ times\r\n
+comment3.params=
+comment3.target=void\ plantOneSide()
+comment3.text=\r\n\ method\ to\ plant\ one\ side\ of\ square\ and\ also\ subtracts\ used\r\n\ flowers\ from\ total\r\n
+comment4.params=
+comment4.target=void\ turnCorner()
+comment4.text=\r\n\ method\ to\ turn\ one\ corner\ after\ a\ side\r\n
+comment5.params=
+comment5.target=int\ getOneSide()
+comment5.text=\r\n\ accessor\ method\ for\ oneSide\ field\r\n\ \r\n\ @return\ number\ of\ flowers\ for\ one\ side\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TransformablePicture
+comment0.text=\r\n\ \ A\ picture\ that\ supports\ basic\ color\ transformations\ for\ Lab\ 06.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.09.28)\r\n
+comment1.params=original
+comment1.target=TransformablePicture(student.media.Picture)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ TransformablePicture\ object\ as\ a\ copy\r\n\ of\ another\ image.\r\n\ @param\ original\ Picture\ object\r\n
+comment2.params=
+comment2.target=void\ maxRed()
+comment2.text=\r\n\ Turns\ the\ red\ intensity\ of\ every\ pixel\ in\ this\ image\ up\ to\r\n\ the\ maximum\ value.\r\n
+comment3.params=
+comment3.target=void\ maxGreen()
+comment3.text=\r\n\ Turns\ the\ green\ intensity\ of\ every\ pixel\ in\ this\ image\ up\ to\r\n\ the\ maximum\ value.\r\n
+comment4.params=
+comment4.target=void\ maxBlue()
+comment4.text=\r\n\ Turns\ the\ blue\ intensity\ of\ every\ pixel\ in\ this\ image\ up\ to\r\n\ the\ maximum\ value.\r\n
+comment5.params=amount
+comment5.target=void\ brighten(int)
+comment5.text=\r\n\ method\ to\ brighten\ image\ by\ amount\ more\ than\ current\ value\r\n\ @param\ amount\ integer\ to\ increase\ or\ decrease\ brightness\ by\r\n
+numComments=6

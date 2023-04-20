@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Level6Solution
+comment0.text=\r\n\ \ Level\ 6,\ together\ with\ its\ solution\ using\ a\ single\ Light-Bot.\r\n\r\n\ @author\ (Richard\ Nguyen)\r\n\ @version\ (8/22/2022)\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ Program\ to\ light\ 3\ tiles\ for\ level\ six\ LightBot\r\n
+numComments=2

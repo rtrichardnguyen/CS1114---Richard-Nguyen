@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SquarePlanterTest
+comment0.text=\r\n\ \ \ Class\ that\ tests\ all\ methods\ in\ SquarePlanter\ class\r\n\ \ \ \r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.09.22)\r\n
+comment1.params=
+comment1.target=SquarePlanterTest()
+comment1.text=\r\n\ Creates\ a\ new\ SquarePlanterTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testPlantOneSide()
+comment3.text=\r\n\ method\ to\ test\ if\ jeroo\ plants\ one\ whole\ side\r\n
+comment4.params=
+comment4.target=void\ testTurnCorner()
+comment4.text=\r\n\ method\ to\ test\ if\ a\ side\ is\ finished\ and\ then\ turns\ for\r\n\ next\ side\r\n
+comment5.params=
+comment5.target=void\ testSquarePlanter()
+comment5.text=\r\n\ method\ to\ test\ if\ jeroo\ plants\ entire\ square\ and\ faces\ \r\n\ east\r\n
+comment6.params=
+comment6.target=void\ testSquarePlanterBigger()
+comment6.text=\r\n\ method\ to\ test\ if\ jeroo\ plants\ entire\ square\ and\ faces\ \r\n\ east\ for\ a\ 10\ x\ 10\ square\r\n
+numComments=7

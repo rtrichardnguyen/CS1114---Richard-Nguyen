@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NetRemover
+comment0.text=\r\n\ This\ class\ holds\ all\ methods\ necessary\ to\ pick\ all\ flowers\r\n\ and\ disable\ all\ nets.\r\n\r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.09.06)\r\n
+comment1.params=
+comment1.target=NetRemover()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ NetRemover\ object.\r\n
+comment2.params=
+comment2.target=void\ pickFlowersAndDisableNets()
+comment2.text=\r\n\ method\ to\ call\ all\ flower\ picking\ and\ net\ disabling\r\n\ methods.\r\n
+comment3.params=
+comment3.target=void\ pickFlowers()
+comment3.text=\r\n\ method\ to\ pick\ all\ flowers\ ahead\ of\ jeroo\r\n
+comment4.params=
+comment4.target=void\ returnToStart()
+comment4.text=\r\n\ method\ to\ return\ to\ starting\ position\r\n
+comment5.params=
+comment5.target=void\ goToNets()
+comment5.text=\r\n\ method\ to\ navigate\ to\ first\ net\r\n
+comment6.params=
+comment6.target=void\ disableNets()
+comment6.text=\r\n\ method\ to\ disable\ all\ nets\r\n
+numComments=7

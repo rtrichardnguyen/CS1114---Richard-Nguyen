@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestImage2x2
+comment0.text=\n\ \ A\ simple\ 2x2\ image\ with\ a\ solid\ color\ filling\ all\ pixels.\n\ \ This\ class\ is\ useful\ for\ testing\ simple\ color\ transformations.\n\n\ \ @author\ Stephen\ Edwards\n\ \ @version\ 2021.09.26\n
+comment1.params=
+comment1.target=TestImage2x2()
+comment1.text=\n\ Initializes\ a\ newly\ created\ TestImage2x2\ object.\n
+comment2.params=colorValue
+comment2.target=TestImage2x2(int)
+comment2.text=\n\ Initializes\ a\ newly\ created\ TestImage2x2\ object.\n
+numComments=3

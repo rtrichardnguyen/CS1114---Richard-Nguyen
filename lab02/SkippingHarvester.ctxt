@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SkippingHarvester
+comment0.text=\r\n\ SkippingHarvester\ subclass\ of\ harvester\ to\ harvest\ second\ row\ of\ plants;\r\n\ demonstrates\ subclass\ of\ harvester.\r\n\ \r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.08.31)\r\n
+comment1.params=
+comment1.target=SkippingHarvester()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ SkippingHarvester\ object.\r\n
+comment2.params=
+comment2.target=void\ hop2AndPick()
+comment2.text=\r\n\ uses\ inherited\ hopAndPick()\ and\ adds\ hop\r\n
+numComments=3

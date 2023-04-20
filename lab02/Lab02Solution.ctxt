@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lab02Solution
+comment0.text=\r\n\ \ Lab\ 02\ solution\ to\ solve\ lab\ problem;\ creates\ and\ adds\ three\ jeroos;\r\n\ \ also\ calls\ polymorphic\ methods.\r\n\ \ \r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.08.31)\r\n
+comment1.params=
+comment1.target=Lab02Solution()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Lab02Solution\ object.\r\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\r\n\ myProgram\ method\ to\ add\ 3\ jeroos\ and\ call\ main\ actions\r\n
+numComments=3

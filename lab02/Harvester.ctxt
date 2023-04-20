@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Harvester
+comment0.text=\r\n\ Harvester\ subclass\ of\ Jeroo\ that\ creates\ a\ jeroo\ to\ harvest\ plants;\ \r\n\ superclass\ of\ subsequent\ harvester\ subclasses.\r\n\ \r\n\ \ @author\ Richard\ Nguyen\ (906512730)\r\n\ \ @version\ (2022.08.31)\r\n
+comment1.params=
+comment1.target=Harvester()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Harvester\ object.\r\n
+comment2.params=
+comment2.target=void\ hopAndPick()
+comment2.text=\r\n\ hop\ and\ pick\ calls\ to\ simplify\ hop2AndPick()\r\n
+comment3.params=
+comment3.target=void\ hop2AndPick()
+comment3.text=\r\n\ hopAndPick\ method\ used\ twice\ to\ build\r\n
+comment4.params=
+comment4.target=void\ harvestRow()
+comment4.text=\r\n\ harvestRow\ to\ be\ used\ in\ myProgram()\r\n
+numComments=5
